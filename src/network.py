@@ -1,7 +1,6 @@
 from random import _urandom
 from concurrent.futures import ThreadPoolExecutor
 import socket
-from unittest import result
 from utils import colored_txt
 
 class WebFlood(object):
